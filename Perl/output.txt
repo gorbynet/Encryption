@@ -1,0 +1,26 @@
+Encoding
+Message:	I	L	O	V	E	Y	O	U
+charnum:	08	11	14	21	04	24	14	20	
+
+Key:    	O	R	L	I	K	E	S	T
+charnum:	14	17	11	08	10	04	18	19	
+
+Sum:    	22	28	25	29	14	28	32	39	
+
+Mod 25: 	22	02	25	03	14	02	06	13	
+
+Cipher: 	W	C	Z	D	O	C	G	N
+
+Decoding
+Cipher: 	W	C	Z	D	O	C	G	N
+Charnum:	22	02	25	03	14	02	06	13	
+
+Key:    	O	R	L	I	K	E	S	T
+charnum:	14	17	11	08	10	04	18	19	
+
+Diff:   	08	-15	14	-5	04	-2	-12	-6	
+
+Mod 25: 	08	11	14	21	04	24	14	20	
+
+Message:	I	L	O	V	E	Y	O	U
+
